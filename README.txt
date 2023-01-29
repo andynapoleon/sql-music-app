@@ -1,7 +1,7 @@
-Members:
-Name: Khac Nguyen Nguyen
-CCID: khacnguy
-Name: Andy Tran
-CCID: aqtran
-We did not collaborate with anyone else in this project.
-Sources used (if exists): Tkinter documentation, Aron Gu's data set
+# SQL No-Music Music App
+
+This is a simple Python music app where people can log in, search for songs, or add their own songs!
+Built using Python Tkinter and SQLite.
+
+Collaborator: Khac Nguyen Nguyen.
+
